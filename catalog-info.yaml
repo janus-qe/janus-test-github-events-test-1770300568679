@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: janus-test-github-events-test-1770300568679
+  annotations:
+    github.com/project-slug: janus-qe/janus-test-github-events-test-1770300568679
+  description: E2E test component for github events module
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/janus-qe
