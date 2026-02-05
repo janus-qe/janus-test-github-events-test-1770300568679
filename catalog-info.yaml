@@ -4,7 +4,7 @@ metadata:
   name: janus-test-github-events-test-1770300568679
   annotations:
     github.com/project-slug: janus-qe/janus-test-github-events-test-1770300568679
-  description: E2E test component for github events module
+  description: updated description
 spec:
   type: other
   lifecycle: unknown
